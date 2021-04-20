@@ -1,0 +1,10 @@
+1.pip install virtualenvwrapper-win
+2.mkvirtualenv myproject
+3.workon myproject  (running time and also any modules install and open every time our project)
+
+4.pip install django
+5.django-adimin startproject myproject
+6.cd myproject
+7.pip freeze requirements.txt(texting our requirements)
+8.django-admin startapp myapp
+9.
